@@ -1,0 +1,45 @@
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+venv/
+env/
+*.egg-info/
+dist/
+build/
+*.log
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*.sublime-project
+*.sublime-workspace
+
+# Environment variables
+.env
+
+# Browser driver binaries
+chromedriver
+geckodriver
+
+# Download directories
+downloads/
+
+# Other files to ignore
+*.DS_Store
+*.coverage
+*.coverage.*
+*.nosetests*
+*.tox
+*.nox
+*.pytest_cache/
+*.coverage
+*.hypothesis/
+.pytest_cache/
+.coverage
+.cache/
+*.log
+*.tmp

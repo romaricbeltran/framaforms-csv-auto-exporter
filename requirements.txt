@@ -1,0 +1,6 @@
+pytest
+pytest-selenium
+python-dotenv
+requests
+schedule
+selenium
