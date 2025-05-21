@@ -43,3 +43,6 @@ downloads/
 .cache/
 *.log
 *.tmp
+
+# Venv
+*venv/
